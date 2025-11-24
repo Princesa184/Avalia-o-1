@@ -1,0 +1,16 @@
+1 questão = nome completo String( ou simular, para texto )- para armazenar o nome completo do aluno.
+idade = Inteiro(ou float/double) para aramanezar a altura em metros,ue pode ter casos decimais.
+altura = Real (ou float/double) para armanear a altura em metros.
+sugstão de nascimento data ou date.
+2 questão =
+Informação,Variável Proposta,Tipo de Dado Recomendado (Java),Descrição do Tipo
+Nome do Produto,nomeProduto,String,Armazena texto (sequência de caracteres).
+Quantidade em Estoque,quantidadeEstoque,int (ou Integer),Armazena números inteiros (contagem de itens).
+Preço Unitário,precoUnitario,double (ou float),"Armazena números de ponto flutuante, ideal para valores monetários."
+Disponível para Venda,estaDisponivel,boolean,Armazena apenas dois valores: true (verdadeiro) ou false (falso).
+3 Questão =
+Informação,Variável Proposta,Tipo de Dado Recomendado (Java),Descrição do Tipo
+Nome do Evento,nomeEvento,String,Armazena texto (o título do evento).
+Número de Participantes,participantesEsperados,int (ou Integer),Armazena números inteiros (contagem de pessoas).
+Preço do Ingresso,precoIngresso,double (ou float),"Armazena números de ponto flutuante, ideal para valores monetários."
+Evento Presencial,ehPresencial,boolean,Armazena apenas true (se for presencial) ou false (se for online ou híbrido).
