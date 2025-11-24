@@ -1,0 +1,9 @@
+public class Principal {
+    
+    // Este é o método principal (main), o ponto de entrada da aplicação.
+    public static void main(String[] args) {
+        
+        // Imprime o nome no console (tela).
+        System.out.println("Meu nome é [Maria Aparecida Alves da Silva ]");
+    }
+}
